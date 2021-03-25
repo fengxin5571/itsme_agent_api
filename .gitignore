@@ -1,0 +1,6 @@
+.env
+runtime
+.idea
+composer.lock
+*.log
+public/nginx.htaccess
